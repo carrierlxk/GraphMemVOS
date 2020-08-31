@@ -30,6 +30,8 @@ If you find the code and dataset useful in your research, please consider citing
 ## Acknowledge
 
 1. Video object segmentation using space-time memory networks, ICCV 2019 (https://github.com/seoungwugoh/STM)
+2. A Generative Appearance Model for End-to-End Video Object Segmentation, CVPR2019 (https://github.com/joakimjohnander/agame-vos)
+3. https://github.com/lyxok1/STM-Training
 
 Any comments, please email: carrierlxk@gmail.com
 
