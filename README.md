@@ -4,7 +4,7 @@ Code for ECCV 2020 paper: Video Object Segmentation with Episodic Graph Memory N
 ![](../master/eccv-framework.png)
 
 ## Testing
-1. Install python (3.6.5), pytorch (version:1.0.1) and requirements in the requirements.txt files.
+1. Install python (3.6.5), pytorch (version:1.0.1) and requirements in the requirements.txt files. Download the DAVIS-2017 dataset.
 
 2. Download the pretrained model from [googledrive](https://drive.google.com/file/d/1HO6wlhAYSuBDx4Cnb8efQyLs357ycDz2/view?usp=sharing) and put it into the workspace_STM_alpha files. 
 
