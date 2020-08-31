@@ -1,5 +1,5 @@
 ## GraphMemVOS
-Code for ECCV 2020 paper: Video Object Segmentation with Episodic Graph Memory Networks
+Code for ECCV 2020 spotlight paper: Video Object Segmentation with Episodic Graph Memory Networks
 #
 ![](../master/eccv-framework.png)
 
@@ -16,24 +16,20 @@ The segmentation results can be download from [googledrive](https://drive.google
 
 If you find the code and dataset useful in your research, please consider citing:
 
-@inproceedings{lu2020video,
-
- title={Video Object Segmentation with Episodic Graph Memory Networks},
- 
- author={Lu, Xiankai and Wang, Wenguan and Martin, Danelljan and Zhou, Tianfei and Shen, Jianbing and Luc, Van Gool},
- 
- booktitle={ECCV},
- 
- year={2020}
- 
+@inproceedings{lu2020video,  
+ title={Video Object Segmentation with Episodic Graph Memory Networks},  
+ author={Lu, Xiankai and Wang, Wenguan and Martin, Danelljan and Zhou, Tianfei and Shen, Jianbing and Luc, Van Gool},  
+ booktitle={ECCV},  
+ year={2020}  
 }
 
 ## Other related projects/papers:
 
 1. Zero-shot Video Object Segmentation via Attentive Graph Neural Networks, ICCV 2019 (https://github.com/carrierlxk/AGNN) 
 
-2. Video object segmentation using space-time memory networks, ICCV 2019 (https://github.com/seoungwugoh/STM)
+## Acknowledge
 
+1. Video object segmentation using space-time memory networks, ICCV 2019 (https://github.com/seoungwugoh/STM)
 
 Any comments, please email: carrierlxk@gmail.com
 
