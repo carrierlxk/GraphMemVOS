@@ -7,7 +7,7 @@ Code for ECCV 2020 paper: Video Object Segmentation with Episodic Graph Memory N
 
 2. Download the pretrained model from [googledrive](https://drive.google.com/file/d/1HO6wlhAYSuBDx4Cnb8efQyLs357ycDz2/view?usp=sharing) and put it into the workspace_STM_alpha files. 
 
-3. Run 'run_graph_memory_test.sh' and change the davis dataset path, pretrainde model path and result path.
+3. Run 'run_graph_memory_test.sh' and change the davis dataset path, pretrainde model path and result path and the paths in local_config.py.
 
 The segmentation results can be download from [googledrive]()
 
