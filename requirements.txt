@@ -1,0 +1,8 @@
+opencv-python
+torchvision==0.2.2.post3
+tqdm
+tensorboardX
+scipy
+matplotlib
+imgaug
+scikit-image
