@@ -12,6 +12,15 @@ Code for ECCV 2020 spotlight paper: Video Object Segmentation with Episodic Grap
 
 The segmentation results can be download from [googledrive](https://drive.google.com/file/d/1CYDtlQNlq2ZEKI29LLOb8TZq4eSpiRPJ/view?usp=sharing).
 
+## Results
+1.**DAVIS** (Eval on Val 2017):
+
+In the inference stage, we ran using the default size of DAVIS (480p).
+
+**Mean J&F** |  **J score** | **F score** | 
+---------|  :---------: | :---------: 
+ **82.8** | **80.0** | **85.2** |
+
 ## Citation
 
 If you find the code and dataset useful in your research, please consider citing:
